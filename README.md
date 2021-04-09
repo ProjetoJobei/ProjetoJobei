@@ -28,3 +28,5 @@ O projeto de uma rede social que te conecta ao trabalho de profissionais autôno
    - [Bianca Silva](https://github.com/BiancaFSilva)
    - [Emanuela de Almeida](https://github.com/AnaThomazini55)
    - [Isabelle Damacena](https://github.com/IsabelleDamacena)
+
+---
