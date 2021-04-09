@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ProjetoJobei/ProjetoJobei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" width="400" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+
+### Olá, somos a Jobei 👋
+O projeto de uma rede social que te conecta ao trabalho de profissionais autônomos da sua região.
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:equipe.jobei@gmail.com)](mailto:equipe.jobei@gmail.com)
+
+----
+
