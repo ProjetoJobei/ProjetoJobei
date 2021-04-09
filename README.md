@@ -24,7 +24,7 @@ O projeto de uma rede social que te conecta ao trabalho de profissionais autôno
 ----
 
 <p>
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=ProjetoJobei&show_icons=true&custom_title=%20Jobei's%20GitHub%20Stats&title_color=ff441e&text_color=fd5634&icon_color=f74716&bg_color=282a36&hide_border=true&count_private=true&hide=issues" alt="My GitHub stats"/> 
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=ProjetoJobei" alt="My GitHub stats"/> 
 </p>
 <p align="center"> 
       <img src="https://github-profile-trophy.vercel.app/?username=ProjetoJobei&margin-w=7" alt="ProjetoJobei's points" /> 
