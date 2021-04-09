@@ -21,15 +21,10 @@ O projeto de uma rede social que te conecta ao trabalho de profissionais autôno
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:equipe.jobei@gmail.com)](mailto:equipe.jobei@gmail.com)
 
+--- 
 
 ### :busts_in_silhouette: Nossa equipe 
    - [Ana Carolyny](https://github.com/AnaThomazini55)
    - [Bianca Silva](https://github.com/BiancaFSilva)
    - [Emanuela de Almeida](https://github.com/AnaThomazini55)
    - [Isabelle Damacena](https://github.com/IsabelleDamacena)
-
-----
-
-<p>
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=ProjetoJobei" alt="My GitHub stats"/> 
-</p>
