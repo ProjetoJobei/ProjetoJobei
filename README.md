@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-<img align="right" width="400" height="400" src="https://hum-systems.com/site/templates/images/jobs/software-developer-2.png">
+<img align="right" width="400" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 ### Olá, somos a Jobei 👋
 O projeto de uma rede social que te conecta ao trabalho de profissionais autônomos da sua região.
@@ -22,22 +22,11 @@ O projeto de uma rede social que te conecta ao trabalho de profissionais autôno
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:equipe.jobei@gmail.com)](mailto:equipe.jobei@gmail.com)
 
 
-### :busts_in_silhouette: Nossa equipe
-  <b> Ana Carolyny </b>  
-    [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AnaThomazini55)](https://github.com/AnaThomazini55)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/----)](https://www.linkedin.com/in/----)  
-  <b> Bianca Silva </b>  
-    [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BiancaFSilva)](https://github.com/BiancaFSilva)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancafsilva/)](https://www.linkedin.com/in/biancafsilva/)
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biancaflorianodasilv@gmail.com)](mailto:biancaflorianodasilva@gmail.com)   
-  <b> Emanuela de Almeida </b>   
-    [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Manu0121)](https://github.com/Manu0121)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuela-de-almeida-silva-9920581a4/)](https://www.linkedin.com/in/emanuela-de-almeida-silva-9920581a4/)
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manudealsilva@gmail.com)](mailto:manudealsilva@gmail.com)
-  <b> Isabelle Damacena </b>   
-    [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IsabelleDamacena)](https://github.com/IsabelleDamacena)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=   )](https://www.linkedin.com/in/  )
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damacenaisabelle@gmail.com)](mailto:damacenaisabelle@gmail.com)
+### :busts_in_silhouette: Nossa equipe 
+   - [Ana Carolyny](https://github.com/AnaThomazini55)
+   - [Bianca Silva](https://github.com/BiancaFSilva)
+   - [Emanuela de Almeida](https://github.com/AnaThomazini55)
+   - [Isabelle Damacena](https://github.com/IsabelleDamacena)
 
 ----
 
