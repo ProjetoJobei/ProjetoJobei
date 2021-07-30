@@ -24,9 +24,11 @@ O projeto de uma rede social que te conecta ao trabalho de profissionais autôno
 --- 
 
 ### :busts_in_silhouette: Nossa equipe 
-   - [Ana Carolyny](https://github.com/AnaThomazini55)
-   - [Bianca Silva](https://github.com/BiancaFSilva)
-   - [Emanuela de Almeida](https://github.com/Manu0121)
-   - [Isabelle Damacena](https://github.com/IsabelleDamacena)
-
+   <p> 
+      <a href="https://github.com/AnaThomazini55"> Ana Carolyny </a> <br>
+      <a href="https://github.com/BiancaFSilva"> Bianca Silva </a> <br>
+      <a href="https://github.com/Manu0121"> Emanuela de Almeida </a> <br>
+      <a href="https://github.com/IsabelleDamacena"> Isabelle Damacena </a>
+   </p>
+   
 ---
