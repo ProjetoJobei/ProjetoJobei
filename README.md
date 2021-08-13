@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 ### Olá, somos a Jobei 👋
 O projeto de uma rede social que te conecta ao trabalho de profissionais autônomos da sua região.
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:equipe.jobei@gmail.com)](mailto:equipe.jobei@gmail.com)
-
+<a target="_blank" href="mailto:equipe.jobei@gmail.com?subject=Hello"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a target="_blank" href="https://www.facebook.com/projetojobei"> <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+<a target="_blank" href="https://www.instagram.com/jobei_projeto"> <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 --- 
 
 ### :busts_in_silhouette: Nossa equipe 
